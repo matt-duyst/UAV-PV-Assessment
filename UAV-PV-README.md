@@ -169,11 +169,11 @@ The energy output of the 12 solar arrays was quite consistent during the time of
 
 ### **Figure 11: Solar Energy Readings During Flight (kWh)**
 ![Figure 11](./images/Figure-11.png)
-The solar energy production from each of the 12 solar arrays between 12:00 PM and 12:15 PM is displayed.
+*The solar energy production from each of the 12 solar arrays between 12:00 PM and 12:15 PM is displayed.*
 
 ### **Figure 12: Total Solar Energy Production During Flight (kWh)**
 ![Figure 12](./images/Figure-12.png)
-The 12 solar arrays and their energy production on November 3rd, 2021 is displayed.
+*The 12 solar arrays and their energy production on November 3rd, 2021 is displayed.*
 
 ---
 
