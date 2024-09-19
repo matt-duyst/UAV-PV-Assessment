@@ -43,7 +43,7 @@ The study area of this research endeavor is contextualized for a broader audienc
 The campus is home to the sprawling facilities of Yale institutes for nanobiology, microbial sciences, biomolecular design, cancer biology, and the preservation of cultural heritage. In 2015, Yale purchased solar power from Solar City, which has since been acquired by Tesla in 2016, and installed 4,400 solar photovoltaic panels covering close to two acres of rooftop on a storage and receiving facility. The installation now generates 1.6 million kilowatt-hours of electricity annually, which is over 20% of West Campus’s total energy demand. The project delivered an eight-fold increase in the university’s on-site renewable energy generation.
 
 ### **Figure 1: Yale University’s West Campus PV Building**
-![Figure 1](./images/Figure-1.png)
+![Figure 1](./images/Figure-1.jpg)
 *This diagram depicts the study area and PV solar arrays within four scales: the New England region, the coastal Connecticut scale, and the township scale.*
 
 ---
@@ -63,7 +63,7 @@ The campus is home to the sprawling facilities of Yale institutes for nanobiolog
 *The RGB and thermal camera used to take photos of our study area at nadir direction in burst mode. It takes paired photos of the ROI in four bands: red, green, blue, and thermal.*
 
 ### **Figure 5: Thermal Hand-Held (Infrared Thermometer)**
-![Figure 5](./images/Figure-5.png)
+![Figure 5](./images/Figure-5.jpg)
 *This device captures measurements in wavelengths 7.5 - 13.5 um. Its emissivity was set to 0.95.*
 
 
